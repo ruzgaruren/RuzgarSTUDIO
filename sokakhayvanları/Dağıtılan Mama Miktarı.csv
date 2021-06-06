@@ -1,0 +1,190 @@
+﻿_id,YIL,AY,ILCE,MAHALLE,DAGITIM_YERI,MIKTAR,BIRIM
+1,2020,1,-,-,Sokak besleme,150,kg
+2,2020,1,Foça,-,Foça Yerel Hizmetler Şube Müdürlüğü,4125,kg
+3,2020,1,Menderes,-,Şopen Gazi Barınağı,2745,kg
+4,2020,1,Menderes,-,Menderes Yerel Hizmetler Şube Müdürlüğü,750,kg
+5,2020,1,Aliağa,-,Aliağa Yerel Hizmetler Şube Müdürlüğü,1500,kg
+6,2020,1,Seferihisar,-,Seferihisar Yerel Hizmetler Şube Müdürlüğü,1200,kg
+7,2020,1,Ödemiş,-,Ödemiş Yerel Hizmetler Şube Müdürlüğü,825,kg
+8,2020,1,Tire,-,Tire Yerel Hizmetler Şube Müdürlüğü,1200,kg
+9,2020,1,Beydağ,-,Beydağ,330,kg
+10,2020,1,Selçuk,-,Selçuk,750,kg
+11,2020,2,-,-,Sokak besleme,1000,kg
+12,2020,2,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,2625,kg
+13,2020,2,Menderes,"",Şopen Gazi Barınağı,2550,kg
+14,2020,2,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,750,kg
+15,2020,2,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,750,kg
+16,2020,3,-,-,Sokak besleme,1275,kg
+17,2020,3,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,4125,kg
+18,2020,3,Menderes,"",Şopen Gazi Barınağı,5100,kg
+19,2020,3,Kınık,"",Kınık Yerel Hizmetler Şube Müdürlüğü,750,kg
+20,2020,3,Menderes,"",Menderes Yerel Hizmetler Şube Müdürlüğü,750,kg
+21,2020,3,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,1120,kg
+22,2020,3,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,750,kg
+23,2020,3,Karaburun,"",Karaburun Yerel Hizmetler Şube Müdürlüğü,750,kg
+24,2020,3,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,750,kg
+25,2020,3,Çeşme,"",Çeşme Yerel Hizmetler Şube Müdürlüğü,1125,kg
+26,2020,3,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,750,kg
+27,2020,3,Menemen,"",Menemen Yerel Hizmetler Şube Müdürlüğü,450,kg
+28,2020,3,Kemalpaşa,"",Kemalpaşa Yerel Hizmetler Şube Müdürlüğü,750,kg
+29,2020,3,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,750,kg
+30,2020,3,Bayındır,"",Bayındır Yerel Hizmetler Şube Müdürlüğü,750,kg
+31,2020,3,Tire,"",Tire Yerel Hizmetler Şube Müdürlüğü,750,kg
+32,2020,3,Beydağ,"",Beydağ Yerel Hizmetler Şube Müdürlüğü,750,kg
+33,2020,3,Torbalı,"",Torbalı Yerel Hizmetler Şube Müdürlüğü,750,kg
+34,2020,4,-,-,Sokak besleme,630,kg
+35,2020,4,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,2800,kg
+36,2020,4,Menderes,"",Şopen Gazi Barınağı,1425,kg
+37,2020,4,Kınık,"",Kınık Yerel Hizmetler Şube Müdürlüğü,1150,kg
+38,2020,4,Menderes,"",Menderes Yerel Hizmetler Şube Müdürlüğü,1500,kg
+39,2020,4,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,1350,kg
+40,2020,4,Aliağa,"",Aliağa Yerel Hizmetler Şube Müdürlüğü,1650,kg
+41,2020,4,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,900,kg
+42,2020,4,Karaburun,"",Karaburun Yerel Hizmetler Şube Müdürlüğü,1200,kg
+43,2020,4,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,1650,kg
+44,2020,4,Çeşme,"",Çeşme Yerel Hizmetler Şube Müdürlüğü,1350,kg
+45,2020,4,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,1200,kg
+46,2020,4,Menemen,"",Menemen Yerel Hizmetler Şube Müdürlüğü,1650,kg
+47,2020,4,Kemalpaşa,"",Kemalpaşa Yerel Hizmetler Şube Müdürlüğü,1050,kg
+48,2020,4,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,1650,kg
+49,2020,4,Bayındır,"",Bayındır Yerel Hizmetler Şube Müdürlüğü,1650,kg
+50,2020,4,Tire,"",Tire Yerel Hizmetler Şube Müdürlüğü,900,kg
+51,2020,4,Beydağ,"",Beydağ Yerel Hizmetler Şube Müdürlüğü,825,kg
+52,2020,4,Torbalı,"",Torbalı Yerel Hizmetler Şube Müdürlüğü,825,kg
+53,2020,4,Selçuk,"",Selçuk Yerel Hizmetler Şube Müdürlüğü,750,kg
+54,2020,5,-,-,Sokak besleme,1815,kg
+55,2020,5,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,2850,kg
+56,2020,5,Menderes,"",Şopen Gazi Barınağı,2100,kg
+57,2020,5,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,1500,kg
+58,2020,6,-,-,Sokak besleme,960,kg
+59,2020,6,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,2250,kg
+60,2020,6,Menderes,"",Şopen Gazi Barınağı,1575,kg
+61,2020,6,Kınık,"",Kınık Yerel Hizmetler Şube Müdürlüğü,750,kg
+62,2020,6,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,750,kg
+63,2020,6,Karaburun,"",Karaburun Yerel Hizmetler Şube Müdürlüğü,300,kg
+64,2020,6,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,300,kg
+65,2020,6,Çeşme,"",Çeşme Yerel Hizmetler Şube Müdürlüğü,300,kg
+66,2020,6,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,300,kg
+67,2020,6,Kemalpaşa,"",Kemalpaşa Yerel Hizmetler Şube Müdürlüğü,300,kg
+68,2020,6,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,354,kg
+69,2020,6,Bayındır,"",Bayındır Yerel Hizmetler Şube Müdürlüğü,328,kg
+70,2020,6,Tire,"",Tire Yerel Hizmetler Şube Müdürlüğü,178,kg
+71,2020,6,Beydağ,"",Beydağ Yerel Hizmetler Şube Müdürlüğü,354,kg
+72,2020,6,Torbalı,"",Torbalı Yerel Hizmetler Şube Müdürlüğü,928,kg
+73,2020,7,-,-,Sokak besleme,495,kg
+74,2020,7,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,4100,kg
+75,2020,7,Menderes,"",Şopen Gazi Barınağı,1560,kg
+76,2020,7,Kınık,"",Kınık Yerel Hizmetler Şube Müdürlüğü,300,kg
+77,2020,7,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,500,kg
+78,2020,7,Aliağa,"",Aliağa Yerel Hizmetler Şube Müdürlüğü,300,kg
+79,2020,7,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,300,kg
+80,2020,7,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,1125,kg
+81,2020,7,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,90,kg
+82,2020,7,Menemen,"",Menemen Yerel Hizmetler Şube Müdürlüğü,300,kg
+83,2020,8,-,-,Sokak besleme,255,kg
+84,2020,8,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,900,kg
+85,2020,8,Menderes,"",Şopen Gazi Barınağı,975,kg
+86,2020,8,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,75,kg
+87,2020,8,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,2950,kg
+88,2020,9,-,-,Sokak besleme,210,kg
+89,2020,9,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,3000,kg
+90,2020,9,Menderes,"",Şopen Gazi Barınağı,1050,kg
+91,2020,9,Menderes,"",Menderes Yerel Hizmetler Şube Müdürlüğü,150,kg
+92,2020,9,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,450,kg
+93,2020,9,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,2250,kg
+94,2020,9,Menemen,"",Menemen Yerel Hizmetler Şube Müdürlüğü,750,kg
+95,2020,9,Kemalpaşa,"",Kemalpaşa Yerel Hizmetler Şube Müdürlüğü,750,kg
+96,2020,9,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,2250,kg
+97,2020,10,-,-,Sokak besleme,915,kg
+98,2020,10,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,2250,kg
+99,2020,10,Menderes,"",Şopen Gazi Barınağı,1605,kg
+100,2020,10,Menderes,"",Menderes Yerel Hizmetler Şube Müdürlüğü,1650,kg
+101,2020,10,Karaburun,"",Karaburun Yerel Hizmetler Şube Müdürlüğü,300,kg
+102,2020,10,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,1500,kg
+103,2020,10,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,180,kg
+104,2020,11,-,-,Sokak besleme,855,kg
+105,2020,11,Foça,"",Foça Yerel Hizmetler Şube Müdürlüğü,3150,kg
+106,2020,11,Menderes,"",Şopen Gazi Barınağı,1110,kg
+107,2020,11,Kınık,"",Kınık Yerel Hizmetler Şube Müdürlüğü,750,kg
+108,2020,11,Dikili,"",Dikili Yerel Hizmetler Şube Müdürlüğü,675,kg
+109,2020,11,Aliağa,"",Aliağa Yerel Hizmetler Şube Müdürlüğü,750,kg
+110,2020,11,Bergama,"",Bergama Yerel Hizmetler Şube Müdürlüğü,750,kg
+111,2020,11,Karaburun,"",Karaburun Yerel Hizmetler Şube Müdürlüğü,750,kg
+112,2020,11,Seferihisar,"",Seferihisar Yerel Hizmetler Şube Müdürlüğü,750,kg
+113,2020,11,Çeşme,"",Çeşme Yerel Hizmetler Şube Müdürlüğü,750,kg
+114,2020,11,Urla,"",Urla Yerel Hizmetler Şube Müdürlüğü,795,kg
+115,2020,11,Kemalpaşa,"",Kemalpaşa Yerel Hizmetler Şube Müdürlüğü,750,kg
+116,2020,11,Ödemiş,"",Ödemiş Yerel Hizmetler Şube Müdürlüğü,870,kg
+117,2020,11,Bayındır,"",Bayındır Yerel Hizmetler Şube Müdürlüğü,750,kg
+118,2020,11,Tire,"",Tire Yerel Hizmetler Şube Müdürlüğü,750,kg
+119,2020,11,Beydağ,"",Beydağ Yerel Hizmetler Şube Müdürlüğü,750,kg
+120,2020,11,Torbalı,"",Torbalı Yerel Hizmetler Şube Müdürlüğü,750,kg
+121,2020,12,-,-,Sokak besleme,1485,kg
+122,2020,12,Foça,"",Foça Yerel Hiz.Şb.Müd.,3000,kg
+123,2020,12,Menderes,"",Şopen Gazi Barınağı,1620,kg
+124,2020,12,kınık,"",Kınık Yerel Hiz. Şb. Müd.,750,kg
+125,2020,12,Menderes,"",Menderes Yerel Hiz.Şb. Müd.,750,kg
+126,2020,12,Dikili,"",Dikili Yerel Hiz. Şb. Müd.,1350,kg
+127,2020,12,Aliağa,"",Aliağa Yerel Hiz.Şb. Müd.,750,kg
+128,2020,12,Bergama,"",Bergama Yerel Hiz.Şb.Müd.,750,kg
+129,2020,12,Karaburun,"",Karaburun Yerel Hiz. Şb. Müd.,750,kg
+130,2020,12,Seferihisar,"",Seferihisar Yerel Hiz.Şb. Müd.,750,kg
+131,2020,12,Çeşme,"",Çeşme Yerel Hiz. Şb. Müd.,750,kg
+132,2020,12,Urla,"",Urla Yerel Hiz. Şb. Müd.,750,kg
+133,2020,12,Menemen,"",Menemen Yerel Hiz. Şb. Müd.,750,kg
+134,2020,12,Kemalpaşa,"",Kemalpaşa Yerel Hiz.Şb. Müd.,750,kg
+135,2020,12,Ödemiş,"",Ödemiş Yerel Hiz.Şb. Müd.,1965,kg
+136,2020,12,Bayındır,"",Bayındır Yerel Hiz. Şb.Müd.,750,kg
+137,2020,12,Tire,"",Tire Yerel Hiz.Şb. Müd.,750,kg
+138,2020,12,Beydağ,"",Beydağ Yerel Hiz.Şb.Müd.,750,kg
+139,2020,12,Torbalı,"",Torbalı Yerel Hiz.Şb.Müd.,750,kg
+140,2021,1,-,-,Sokak besleme,765,kg
+141,2021,1,Foça,"",Foça Yerel Hiz.Şb.Müd.,2250,kg
+142,2021,1,Menderes,"",Şopen Gazi Barınağı,1725,kg
+143,2021,1,kınık,"",Kınık Yerel Hiz. Şb. Müd.,750,kg
+144,2021,1,Menderes,"",Menderes Yerel Hiz.Şb. Müd.,750,kg
+145,2021,1,Dikili,"",Dikili Yerel Hiz. Şb. Müd.,1800,kg
+146,2021,1,Aliağa,"",Aliağa Yerel Hiz.Şb. Müd.,750,kg
+147,2021,1,Bergama,"",Bergama Yerel Hiz.Şb.Müd.,1500,kg
+148,2021,1,Karaburun,"",Karaburun Yerel Hiz. Şb. Müd.,1200,kg
+149,2021,1,Seferihisar,"",Seferihisar Yerel Hiz.Şb. Müd.,2100,kg
+150,2021,1,Çeşme,"",Çeşme Yerel Hiz. Şb. Müd.,1200,kg
+151,2021,1,Urla,"",Urla Yerel Hiz. Şb. Müd.,780,kg
+152,2021,1,Menemen,"",Menemen Yerel Hiz. Şb. Müd.,1200,kg
+153,2021,1,Kemalpaşa,"",Kemalpaşa Yerel Hiz.Şb. Müd.,750,kg
+154,2021,1,Ödemiş,"",Ödemiş Yerel Hiz.Şb. Müd.,750,kg
+155,2021,1,Bayındır,"",Bayındır Yerel Hiz. Şb.Müd.,750,kg
+156,2021,1,Tire,"",Tire Yerel Hiz.Şb. Müd.,750,kg
+157,2021,1,Beydağ,"",Beydağ Yerel Hiz.Şb.Müd.,750,kg
+158,2021,1,Torbalı,"",Torbalı Yerel Hiz.Şb.Müd.,750,kg
+159,2021,1,Selçuk,"",Selçuk Yerel Hiz.Şb.Müd.,600,kg
+160,2021,1,Kiraz,"",Kiraz Yerel Hiz.Şb.Müd.,600,kg
+161,2021,2,-,-,Sokak besleme,1695,kg
+162,2021,2,Foça,"",Foça Yerel Hiz.Şb.Müd.,2400,kg
+163,2021,2,Menderes,"",Şopen Gazi Barınağı,2880,kg
+164,2021,2,kınık,"",Kınık Yerel Hiz. Şb. Müd.,150,kg
+165,2021,2,Menderes,"",Menderes Yerel Hiz.Şb. Müd.,900,kg
+166,2021,2,Dikili,"",Dikili Yerel Hiz. Şb. Müd.,480,kg
+167,2021,2,Aliağa,"",Aliağa Yerel Hiz.Şb. Müd.,150,kg
+168,2021,2,Bergama,"",Bergama Yerel Hiz.Şb.Müd.,150,kg
+169,2021,2,Seferihisar,"",Seferihisar Yerel Hiz.Şb. Müd.,2775,kg
+170,2021,2,Çeşme,"",Çeşme Yerel Hiz. Şb. Müd.,375,kg
+171,2021,2,Urla,"",Urla Yerel Hiz. Şb. Müd.,345,kg
+172,2021,2,Menemen,"",Menemen Yerel Hiz. Şb. Müd.,1270,kg
+173,2021,2,Kemalpaşa,"",Kemalpaşa Yerel Hiz.Şb. Müd.,750,kg
+174,2021,2,Ödemiş,"",Ödemiş Yerel Hiz.Şb. Müd.,1155,kg
+175,2021,2,Selçuk,"",Selçuk Yerel Hiz.Şb.Müd.,600,kg
+176,2021,3,-,-,Sokak besleme,580,kg
+177,2021,3,Foça,"",Foça Yerel Hiz.Şb.Müd.,2250,kg
+178,2021,3,Menderes,"",Şopen Gazi Barınağı,3765,kg
+179,2021,3,kınık,"",Kınık Yerel Hiz. Şb. Müd.,300,kg
+180,2021,3,Dikili,"",Dikili Yerel Hiz. Şb. Müd.,300,kg
+181,2021,3,Aliağa,"",Aliağa Yerel Hiz.Şb. Müd.,300,kg
+182,2021,3,Bergama,"",Bergama Yerel Hiz.Şb.Müd.,900,kg
+183,2021,3,Karaburun,"",Karaburun Yerel Hiz. Şb. Müd.,225,kg
+184,2021,3,Seferihisar,"",Seferihisar Yerel Hiz.Şb. Müd.,3390,kg
+185,2021,3,Çeşme,"",Çeşme Yerel Hiz. Şb. Müd.,300,kg
+186,2021,3,Menemen,"",Menemen Yerel Hiz. Şb. Müd.,2130,kg
+187,2021,3,Kemalpaşa,"",Kemalpaşa Yerel Hiz.Şb. Müd.,300,kg
+188,2021,3,Ödemiş,"",Ödemiş Yerel Hiz.Şb. Müd.,1050,kg
+189,2021,3,Tire,"",Tire Yerel Hiz.Şb. Müd.,300,kg

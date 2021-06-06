@@ -1,0 +1,50 @@
+---
+title: "finalwork1.rmd"
+output: html_document
+---
+
+
+#Select a theme. My example is about animals
+
+#. Find relevant datasets from the portal
+
+# Lets Import data 
+# SHV is "sokak hayvanlari verisi"
+```{r}
+DagitilanMamaSHV1 <- read.table("C:/Users/winds/Desktop/G/1- CENG 3516 Statistical Computing 2020-2021 Bahar/çalisma/sokakhayvanlari/Dagitilan Mama Miktari.csv", 
+                 header = FALSE,
+                 sep = ",")
+
+
+
+MuayeneEdilenSHV <- read.table("C:/Users/winds/Desktop/G/1- CENG 3516 Statistical Computing 2020-2021 Bahar/çalisma/sokakhayvanlari/Muayene Edilen Sokak Hayvanlari Verisi.csv", 
+                                   header = FALSE,
+                                   sep = ",")
+
+
+SahiplendirilenSHV <- read.table("C:/Users/winds/Desktop/G/1- CENG 3516 Statistical Computing 2020-2021 Bahar/çalisma/sokakhayvanlari/Sahiplendirilen Sokak Hayvanlari Verisi.csv", 
+                                                 header = FALSE,
+                                                 sep = ",")
+
+
+```
+
+
+```{r}
+View(DagitilanMamaSHV)
+View(MuayeneEdilenSHV)
+View(SahiplendirilenSHV)
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
